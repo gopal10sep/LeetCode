@@ -6,7 +6,7 @@
 <ol>
 	<li>Fun with Arrays
 	<ul>
-		<li>Max Consecutive Ones</li>
+		<li><a href="Easy_485_max_consecutive_ones.py">Max Consecutive Ones</a></li>
 		<li>Numbers with even numbers of digits</li>
 		<li>Squares of a Sorted Array</li>
 		<li>Duplicate zeros</li>
