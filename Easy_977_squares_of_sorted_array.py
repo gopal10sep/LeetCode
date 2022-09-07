@@ -1,9 +1,8 @@
+#URL: https://leetcode.com/problems/squares-of-a-sorted-array/
 # 977. Squares of a Sorted Array
 # Easy
 
 # Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
-
- 
 
 # Example 1:
 
@@ -46,7 +45,7 @@ class Solution:
                 right_square = A[right_read_pointer] ** 2
             write_pointer -= 1
         return return_array
-        
+
 
 # class Solution:
 #     def sortedSquares(self, nums: List[int]) -> List[int]:
