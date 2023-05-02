@@ -32,7 +32,6 @@
 		<li><a href="Easy_1729.sql">Find followers count</a>. Leetcode: Check <a href="https://leetcode.com/problems/find-followers-count/">Question</a></li>
 		<li><a href="Easy_511.sql">Game play analysis</a>. Leetcode: Check <a href="https://leetcode.com/problems/game-play-analysis-i/">Question</a></li>
 		<li><a href="Easy_182.sql">Duplicate emails</a>. Leetcode: Check <a href="https://leetcode.com/problems/duplicate-emails/">Question</a></li>
-
 	</ul>
 	</li>
 </ol>
